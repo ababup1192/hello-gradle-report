@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ababup1192.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-18T11:22:21" hostname="9bbfd939-4cec-447e-7fe8-6a554721f402" time="0.002">
+  <properties/>
+  <testcase name="passedTest" classname="org.ababup1192.HelloTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
