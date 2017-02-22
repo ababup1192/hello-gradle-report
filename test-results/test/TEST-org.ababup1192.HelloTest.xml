@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.ababup1192.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-22T21:17:55" hostname="abcce5cd-c14a-4e23-5351-5e698756631d" time="0.002">
+<testsuite name="org.ababup1192.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-22T21:24:33" hostname="7cfa93c3-8a8a-4f51-7e23-42b94fda8904" time="0.003">
   <properties/>
-  <testcase name="passedTest" classname="org.ababup1192.HelloTest" time="0.002"/>
+  <testcase name="passedTest" classname="org.ababup1192.HelloTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
